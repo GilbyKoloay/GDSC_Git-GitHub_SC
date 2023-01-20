@@ -6,6 +6,6 @@
 - Perubahan yang dibuat harus berada di branch yang dinamai nama anda.
 - Gunakan pull request :D
 
-
 ### Contributors
 ##### Gilby Koloay
+##### Wuisan,Josua
